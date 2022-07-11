@@ -3,17 +3,11 @@
 ---
 
 # Mel's Mauraders
-[[Resources/Fenbellar|Fen's Backstory]]
+[[Resources/Fenbellar|Fen's Info]]
 
 
-## Organizations
-- [[Cult of the Dragon|Cult of the Dragon]]
-
-## Allies
-- [[Ragnar|Ragnar]]
-- [[Force Grey|Force Grey]]
-- Clouth 
-## Enemies
-- Delsiphene from the airship
-- Clouth
+- [[Resources/Organizations|Organizations]]
+- [[Resources/Allies|Allies]]
+- [[Resources/Enemies|Enemies]]
+- Story Overview
 
