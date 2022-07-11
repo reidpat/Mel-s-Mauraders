@@ -3,11 +3,10 @@
 ---
 
 # Mel's Mauraders
-[[Resources/Fenbellar|Fen's Info]]
-
-
-- [[Resources/Organizations|Organizations]]
-- [[Resources/Allies|Allies]]
-- [[Resources/Enemies|Enemies]]
-- Story Overview
+- [[Resources/Fenbellar|Fen's Info]]
+- [[Sessions/Sessions|Sessions]]
+- Story Info
+	- [[Resources/Organizations|Organizations]]
+	- [[Resources/Allies|Allies]]
+	- [[Resources/Enemies|Enemies]]
 
