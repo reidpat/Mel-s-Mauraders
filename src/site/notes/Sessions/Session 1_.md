@@ -48,7 +48,7 @@ Highlights:: ["Stella Gone", "Shield Race", "Craig Cats"]
 	- Braided dwarf lady riding one of them -> Dishara
 		- Part of the Enclave 
 	- ~~Offers trading boats~~
-	- Each pay about $500 (fen pays 200)
+	- Each pay about 500g (fen pays 200)
 		- G1 -> Janbo
 			- Yogrund takes
 		- G2 -> Arabus
