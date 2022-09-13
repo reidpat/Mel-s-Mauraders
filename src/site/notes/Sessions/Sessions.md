@@ -8,4 +8,5 @@
 TABLE file.cday as Date, num, highlights
 FROM "Sessions"
 WHERE file.name != "Sessions"
+SORT file.cday DESC
 ```
