@@ -40,6 +40,8 @@
 - Bleeding Heart
 	- Will always help, even if it puts him in danger
 ## Classes
+- Angaradd - "Queen of Amandor"
+	- Aspect of sehenin moonbow
 ### Domain of Peace
 - What does peace mean to fen?
 	- Repeated prisoners dilemma
